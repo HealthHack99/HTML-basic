@@ -1,0 +1,31 @@
+<!doctype html5>
+<html>
+<head>
+<title>My First Web Page</title>
+</head>
+<body>
+<h1><center>   </center></h1>
+<center><img src="file:///C:/Users/SM%20TRADERs/Desktop/mango-still-life.jpg" "alt" width="500" height="500">
+<p>
+</p>
+</center>
+<d1>
+<h2><dt>Season:</dt></h2><p>Mid March to May end</p>                                    
+</d1>
+<h2><dt>Appearance:</dt></h2><p>yellow coloured medium</p>
+<h2><dt>Shape:</dt></h2><p>Ovate oblique</p>
+<h2><dt>Weight:</dt></h2><p>230-250mg<p/>
+<h2><dt>Taste & Flavour:</dt></h2><p>Sweet & Aromotic</p>
+<h3><dd>Top 5 Surprising Benefits Of Mangoes:</h3></dd>
+<ol type="1">
+<li>May boost immunity</li>
+<li>Supports skiun health and regeneration
+<li>Aids digestion</li>
+<li>Support healthy blood sugar levels</li>
+<li>May help reduce kidney stones</li>
+</ol>
+<h4><dd>Mangowala Fruit Guide Rating</h4></dd>
+<p>"The size and count specified is the most likely number based on our experience.please note that the size of the fruit can vary widely during a season.
+Count depends upon how many fruits can be safetly packed in the box without spoilage"s
+</body>
+</html>
